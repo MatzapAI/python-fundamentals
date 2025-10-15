@@ -10,14 +10,16 @@ My structured learning process of Python from scratch.
 ### Completed
 - Setting up development environment
 - Basic Python syntax overview
-
-### In Progress:
 - Variables and data types
 - Input/Output operations
+- Basic calculator 
+- Temperature converter 
 
-### Coming Up:
+### In Progress:
 - Conditionals
 - Loops
+
+### Coming Up:
 - Lists and dictionaries
 - Functions
 - Object-Oriented Programming
@@ -37,4 +39,5 @@ python-fundamentals/
 - [Roadmap.sh - Python](https://roadmap.sh/python)
 - [Exercism - Python Track](https://exercism.org/tracks/python)
 
-**Last Update:** October 14, 2025
+**Last Update:** October 15, 2025
+**Total exercises completed:** 2/100  
