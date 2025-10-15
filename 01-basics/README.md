@@ -15,5 +15,5 @@
 
 ## Progress
 
-**Completed:** 0/10  
+**Completed:** 1/10  
 **Started:** October 14, 2025
