@@ -2,7 +2,7 @@
 
 ## Week 1: Variables and Data Types
 
-- [ ] Basic calculator
+- [X] Basic calculator
 - [ ] Temperature converter
 - [ ] BMI calculator
 - [ ] Currency converter
