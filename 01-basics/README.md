@@ -3,7 +3,7 @@
 ## Week 1: Variables and Data Types
 
 - [X] Basic calculator
-- [ ] Temperature converter
+- [X] Temperature converter
 - [ ] BMI calculator
 - [ ] Currency converter
 - [ ] Tip calculator
@@ -15,5 +15,5 @@
 
 ## Progress
 
-**Completed:** 1/10  
-**Started:** October 14, 2025
+**Completed:** 2/10  
+**Started:** October 15, 2025
