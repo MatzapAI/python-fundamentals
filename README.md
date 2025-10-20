@@ -40,5 +40,5 @@ python-fundamentals/
 - [Roadmap.sh - Python](https://roadmap.sh/python)
 - [Exercism - Python Track](https://exercism.org/tracks/python)
 
-**Last Update:** October 16, 2025
-**Total exercises completed:** 3/100  
+**Last Update:** October 19, 2025
+**Total exercises completed:** 4/100  
