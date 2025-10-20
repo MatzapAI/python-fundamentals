@@ -4,8 +4,6 @@ price of EUR and USD today:
 1 USD = 3851.75
 1 EUR = 4494.80
 """
-
-
 print("---CURRENCY CONVERTOR---")
 
 print("Select your currency: ")
@@ -37,7 +35,7 @@ if type_currency == "cop":
         print("You have selected the conversion from COP to EUR.")
         start_amount = amount = float(input("Enter your amount in COP: "))
         
-        amount /= 3.852 
+        amount /= 4494.80 
 
         print(f"its amount of {start_amount}COP in EUR is: {amount:.3f}") 
     else:
@@ -65,7 +63,7 @@ elif type_currency == "usd":
         
         amount *= 0.86
 
-        print(f"its amount of {start_amount}COP in EUR is: {amount:.3f}") 
+        print(f"its amount of {start_amount}USD in EUR is: {amount:.3f}") 
     else:
         print("X option no valid.")
         print("Close the program...")         
@@ -96,4 +94,5 @@ elif type_currency == "eur":
         print("Close the program...")     
 else:
     print("X option no valid.")
+
     print("Close the program...")         
