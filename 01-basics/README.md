@@ -5,7 +5,7 @@
 - [X] Basic calculator
 - [X] Temperature converter
 - [X] BMI calculator
-- [ ] Currency converter
+- [X] Currency converter
 - [ ] Tip calculator
 - [ ] Age to days converter
 - [ ] Area and perimeter calculator
@@ -15,5 +15,5 @@
 
 ## Progress
 
-**Completed:** 3/10  
-**Started:** October 16, 2025
+**Completed:** 4/10  
+**Started:** October 19, 2025
