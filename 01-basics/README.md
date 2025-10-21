@@ -11,9 +11,9 @@
 - [X] Area and perimeter calculator
 - [X] Discount calculator
 - [X] Seconds to time format
-- [ ] Average of numbers
+- [X] Average of numbers
 
 ## Progress
 
-**Completed:** 9/10  
+**Completed:** 10/10  
 **Started:** October 21, 2025
