@@ -38,4 +38,4 @@ python-fundamentals/
 - [Exercism - Python Track](https://exercism.org/tracks/python)
 
 **Last Update:** October 21, 2025
-**Total exercises completed:** 8/100  
+**Total exercises completed:** 9/100  
