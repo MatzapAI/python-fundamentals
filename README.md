@@ -12,9 +12,6 @@ My structured learning process of Python from scratch.
 - Basic Python syntax overview
 - Variables and data types
 - Input/Output operations
-- Basic calculator 
-- Temperature converter
-- bmi calculator
 
 ### In Progress:
 - Conditionals
@@ -40,5 +37,5 @@ python-fundamentals/
 - [Roadmap.sh - Python](https://roadmap.sh/python)
 - [Exercism - Python Track](https://exercism.org/tracks/python)
 
-**Last Update:** October 20, 2025
-**Total exercises completed:** 6/100  
+**Last Update:** October 21, 2025
+**Total exercises completed:** 8/100  
