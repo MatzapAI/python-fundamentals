@@ -7,7 +7,7 @@
 - [X] BMI calculator
 - [X] Currency converter
 - [X] Tip calculator
-- [ ] Age to days converter
+- [X] Age to days converter
 - [ ] Area and perimeter calculator
 - [ ] Discount calculator
 - [ ] Seconds to time format
@@ -15,5 +15,5 @@
 
 ## Progress
 
-**Completed:** 5/10  
+**Completed:** 6/10  
 **Started:** October 20, 2025
