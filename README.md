@@ -7,21 +7,22 @@ My structured learning process of Python from scratch.
 
 ## Progress
 
-### Completed
+### Completed:
 - Setting up development environment
 - Basic Python syntax overview
-- Variables and data types
-- Input/Output operations
+- Variables and data types 
+- Input/Output operations 
+- Basic exercises (10/10)
 
 ### In Progress:
-- Conditionals
-- Loops
+- Conditionals (advanced)
+- Loops preparation
 
-### Coming Up:
+###  Coming Up:
+- Loops (for, while)
 - Lists and dictionaries
 - Functions
 - Object-Oriented Programming
-
 ## Repository Structure
 ```
 python-fundamentals/
