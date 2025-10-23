@@ -6,14 +6,14 @@ Advanced exercises focusing on complex conditional statements and logic.
 
 ### Conditional Logic
 - [X] Grade classifier
-- [ ] Leap year checker
-- [ ] Login system with attempts
+- [X] Leap year checker
+- [X] Login system with attempts
 
 ### Intro to Loops
-- [ ] Countdown timer
-- [ ] Sum until zero
+- [X] Countdown timer
+- [X] Sum until zero
 
 ## Progress
 
-**Completed:** 1/5
-**Started:** October 22, 2025
+**Completed:** 5/5
+**Started:** October 23, 2025
