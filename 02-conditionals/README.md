@@ -15,5 +15,5 @@ Advanced exercises focusing on complex conditional statements and logic.
 
 ## Progress
 
-**Completed:** 0/5
-**Started:** October 23, 2025
+**Completed:** 1/5
+**Started:** October 22, 2025
