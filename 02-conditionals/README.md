@@ -5,7 +5,7 @@ Advanced exercises focusing on complex conditional statements and logic.
 ## Exercises
 
 ### Conditional Logic
-- [ ] Grade classifier
+- [X] Grade classifier
 - [ ] Leap year checker
 - [ ] Login system with attempts
 
