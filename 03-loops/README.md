@@ -3,10 +3,10 @@
 Exercises focused on mastering loop structures in Python.
 
 ## For Loops
-- [ ] Multiplication table
-- [ ] FizzBuzz
+- [X] Multiplication table
+- [X] FizzBuzz
 - [ ] Pattern printing
-- [ ] Sum of range
+- [X] Sum of range
 - [ ] Factorial calculator
 
 ## While Loops
@@ -22,8 +22,8 @@ Exercises focused on mastering loop structures in Python.
 
 ## Progress
 
-**Completed:** 0/10
-**Started:** October 24, 2025
+**Completed:** 3/10
+**Started:** October 27, 2025
 **Status:** In Progress 🔄
 
 
