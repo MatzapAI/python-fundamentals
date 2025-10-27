@@ -13,10 +13,11 @@ My structured learning process of Python from scratch.
 - Variables and data types 
 - Input/Output operations 
 - Basic exercises (10/10)
+- Conditionals (5/5)
 
 ### In Progress:
 - Conditionals (advanced)
-- Loops preparation
+- Loops (for, while)
 
 ###  Coming Up:
 - Loops (for, while)
@@ -38,5 +39,5 @@ python-fundamentals/
 - [Roadmap.sh - Python](https://roadmap.sh/python)
 - [Exercism - Python Track](https://exercism.org/tracks/python)
 
-**Last Update:** October 21, 2025
-**Total exercises completed:** 10/100  
+**Last Update:** October 27, 2025
+**Total exercises completed:** 15/100  
