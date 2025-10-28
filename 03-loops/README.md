@@ -5,15 +5,15 @@ Exercises focused on mastering loop structures in Python.
 ## For Loops
 - [X] Multiplication table
 - [X] FizzBuzz
-- [ ] Pattern printing
+- [X] Pattern printing
 - [X] Sum of range
-- [ ] Factorial calculator
+- [X] Factorial calculator
 
 ## While Loops
-- [ ] Number guessing game
+- [X] Number guessing game
 - [ ] Menu system
-- [ ] Input validation
-- [ ] Accumulator patterns
+- [X] Input validation
+- [X] Accumulator patterns
 
 ## Advanced
 - [ ] Nested loops
@@ -22,8 +22,8 @@ Exercises focused on mastering loop structures in Python.
 
 ## Progress
 
-**Completed:** 3/10
-**Started:** October 27, 2025
+**Completed:** 8/10
+**Started:** October 28, 2025
 **Status:** In Progress 🔄
 
 
