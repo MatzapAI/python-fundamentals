@@ -14,15 +14,16 @@ My structured learning process of Python from scratch.
 - Input/Output operations 
 - Basic exercises (10/10)
 - Conditionals (5/5)
+- loops (10/10)
 
-### In Progress:
-- Conditionals (advanced)
-- Loops (for, while)
+### 🔄 In Progress:
+- Lists and data structures
+- Dictionaries and tuples
 
-###  Coming Up:
-- Loops (for, while)
-- Lists and dictionaries
+### ⏳ Coming Up:
 - Functions
+- String manipulation
+- File handling
 - Object-Oriented Programming
 ## Repository Structure
 ```
@@ -39,5 +40,5 @@ python-fundamentals/
 - [Roadmap.sh - Python](https://roadmap.sh/python)
 - [Exercism - Python Track](https://exercism.org/tracks/python)
 
-**Last Update:** October 27, 2025
-**Total exercises completed:** 15/100  
+**Last Update:** October 28, 2025
+**Total exercises completed:** 25/100  
