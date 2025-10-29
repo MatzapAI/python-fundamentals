@@ -1,10 +1,10 @@
 # Lists and Data Structures
 
 ## Basic List Operations
-- [ ] List creation and access
-- [ ] List methods (append, insert, remove, pop)
-- [ ] Slicing and indexing
-- [ ] List length and iteration
+- [X] List creation and access
+- [X] List methods (append, insert, remove, pop)
+- [X] Slicing and indexing
+- [X] List length and iteration
 
 ## Intermediate Operations
 - [ ] List comprehensions
@@ -28,6 +28,6 @@
 
 ## Progress
 
-**Completed:** 0/15
-**Started:** October x, 2025
-**Status:** Not Started ⏳
+**Completed:** 4/15
+**Started:** October 29, 2025
+**Status:** In progress
