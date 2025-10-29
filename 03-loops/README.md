@@ -11,20 +11,20 @@ Exercises focused on mastering loop structures in Python.
 
 ## While Loops
 - [X] Number guessing game
-- [ ] Menu system
+- [X] Menu system
 - [X] Input validation
 - [X] Accumulator patterns
 
 ## Advanced
-- [ ] Nested loops
-- [ ] Loop with break/continue
-- [ ] List comprehensions intro
+- [X] Nested loops
+- [X] Loop with break/continue
+- [X] List comprehensions intro
 
 ## Progress
 
-**Completed:** 8/10
+**Completed:** 10/10
 **Started:** October 28, 2025
-**Status:** In Progress 🔄
+**Status:** Complete   
 
 
 
